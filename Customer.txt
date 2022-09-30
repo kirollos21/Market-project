@@ -1,0 +1,14 @@
+213	Ehab	Kirollos	kiro@auc.edu	Kiro	123456
+546	Ahmed	Hadj	hadj@auc.edu	Hadj	123456
+0	Chaima	Er-Rafiy	chaima@auc.edu	chaimaa	jjj
+900200	kareem	sayed	kare@auc.edu	kemoo	1234567
+106	Mohamed	24qar	mnqosha@auc.edu	24qar	55555
+789	Mina	Karam	mon@auc.edu	Mon	0000
+3	Menna	Emam	mennaemam@auc.edu	mennaemam	emam3
+69	barbary	elrewesh	barbaryrewesh	barbaryrewesh	3lshananareweshgedan
+900214268	saida	ihmadi	s3dya@aucegypt.edu	saadiya	saida
+6457457	maram	mahmoudi	maram@gmail.com	maram	123
+1234	DR.Amr	Badr-eldin	DR.Ar@auc	DR.Amr	1111
+900213657	belal	hassan	bbebaeiofho	bebo	kirogamed
+900213132	tasneem	hesham	tasneem@aucegypt.edu	tasneem11	135790tt
+47988756	mernaaaa	hannoun	mernaaaaz@aucegypt.edu	dengela	1234567890
